@@ -1,1 +1,1 @@
-# reviewdog-test
+# golang-test
